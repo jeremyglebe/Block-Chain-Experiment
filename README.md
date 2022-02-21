@@ -1,0 +1,2 @@
+# Block Chain Experiment
+The code found in `block.py` simulates a simple block chain. This is an experiment focused on the functionality of a block chain, including hashing and mining. This is not intended to be functional and does not contain any networking code.
